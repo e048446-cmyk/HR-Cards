@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Smith;Adrianne;R;;
+FN:Adrianne R Smith
+ORG:Muscogee County School District
+TITLE:Compensation Specialist
+TEL;TYPE=WORK,VOICE:(706) 748-2275
+EMAIL;TYPE=WORK:smith.adrianne.r@muscogee.k12.ga.us
+ADR;TYPE=WORK:;;2960 Macon Rd.;Columbus;GA;31906;USA
+END:VCARD

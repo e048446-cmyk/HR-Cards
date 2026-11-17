@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Smith;India;B;;
+FN:India B Smith
+ORG:Muscogee County School District
+TITLE:Recruitment & Retention Manager
+TEL;TYPE=WORK,VOICE:(706) 332-4369
+EMAIL;TYPE=WORK:smith.india.b@muscogee.k12.ga.us
+ADR;TYPE=WORK:;;2960 Macon Rd.;Columbus;GA;31906;USA
+END:VCARD
